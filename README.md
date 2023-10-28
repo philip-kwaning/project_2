@@ -1,2 +1,2 @@
-# project_2
-Automatic calculation of loan
+# exchange_rate
+Exchange rate calculation
